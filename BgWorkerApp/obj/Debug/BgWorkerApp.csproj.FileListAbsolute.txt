@@ -1,0 +1,16 @@
+C:\Users\rucr\Desktop\PROJECTS\BgWorkerApp\BgWorkerApp\bin\Debug\BgWorkerApp.exe.config
+C:\Users\rucr\Desktop\PROJECTS\BgWorkerApp\BgWorkerApp\bin\Debug\BgWorkerApp.exe
+C:\Users\rucr\Desktop\PROJECTS\BgWorkerApp\BgWorkerApp\bin\Debug\BgWorkerApp.pdb
+C:\Users\rucr\Desktop\PROJECTS\BgWorkerApp\BgWorkerApp\obj\Debug\BgWorkerApp.csprojResolveAssemblyReference.cache
+C:\Users\rucr\Desktop\PROJECTS\BgWorkerApp\BgWorkerApp\obj\Debug\BgWorkerApp.csproj.ResolveComReference.cache
+C:\Users\rucr\Desktop\PROJECTS\BgWorkerApp\BgWorkerApp\obj\Debug\MainWindow.g.cs
+C:\Users\rucr\Desktop\PROJECTS\BgWorkerApp\BgWorkerApp\obj\Debug\App.g.cs
+C:\Users\rucr\Desktop\PROJECTS\BgWorkerApp\BgWorkerApp\obj\Debug\BgWorkerApp_MarkupCompile.cache
+C:\Users\rucr\Desktop\PROJECTS\BgWorkerApp\BgWorkerApp\obj\Debug\BgWorkerApp_MarkupCompile.lref
+C:\Users\rucr\Desktop\PROJECTS\BgWorkerApp\BgWorkerApp\obj\Debug\MainWindow.baml
+C:\Users\rucr\Desktop\PROJECTS\BgWorkerApp\BgWorkerApp\obj\Debug\BgWorkerApp.g.resources
+C:\Users\rucr\Desktop\PROJECTS\BgWorkerApp\BgWorkerApp\obj\Debug\BgWorkerApp.Properties.Resources.resources
+C:\Users\rucr\Desktop\PROJECTS\BgWorkerApp\BgWorkerApp\obj\Debug\BgWorkerApp.csproj.GenerateResource.Cache
+C:\Users\rucr\Desktop\PROJECTS\BgWorkerApp\BgWorkerApp\obj\Debug\BgWorkerApp.exe
+C:\Users\rucr\Desktop\PROJECTS\BgWorkerApp\BgWorkerApp\obj\Debug\BgWorkerApp.pdb
+C:\Users\rucr\Desktop\PROJECTS\BgWorkerApp\BgWorkerApp\obj\Debug\Style.baml
