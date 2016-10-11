@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -96,7 +97,7 @@ namespace BgWorkerApp
             }
         }
 
-        public static void CreateReport(List<Course> listCourses)
+        public static void CreateReport(ObservableCollection<Course> listCourses)
         {
             foreach(Course s in listCourses)
             {                
