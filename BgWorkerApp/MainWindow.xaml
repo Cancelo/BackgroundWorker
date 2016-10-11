@@ -25,6 +25,7 @@
             <Label Content="-"/>
             <DatePicker x:Name="endDatePicker"/>
             <Button Name="btnDoAsynchronousCalculation" Style="{StaticResource Boton}" Click="btnDoAsynchronousCalculation_Click" DockPanel.Dock="Right" Padding="3" HorizontalAlignment="Right" IsEnabled="False">Empezar</Button>
+            <Button Name="btnCancelCalculation" Style="{StaticResource Boton}" Click="btnCancelCalculation_Click" Visibility="Collapsed" DockPanel.Dock="Right" Padding="3" HorizontalAlignment="Right">Cancelar</Button>
             <Button Name="btnCreateReport" Style="{StaticResource Boton}" DockPanel.Dock="Right" HorizontalAlignment="Right" IsEnabled="False" Padding="3" Margin="5,0" Click="btnCreateReport_Click">Generar informe</Button>
         </DockPanel>
         <!--FOOTER-->
@@ -59,7 +60,11 @@
                 </StatusBarItem>
                 <Separator Grid.Column="1" />
                 <StatusBarItem Grid.Column="2">
-                    <TextBlock x:Name="lblPath" Foreground="Gray"/>
+                    <StackPanel Orientation="Horizontal">
+                        <Image x:Name="okImage" Source="Images/success.png" Width="20" Visibility="Collapsed"/>
+                        <Image x:Name="errorImage" Source="Images/error.png" Width="20" Visibility="Collapsed"/>
+                        <TextBlock x:Name="lblPath" Foreground="Gray" Margin="5,0,0,0" VerticalAlignment="Center"/>
+                    </StackPanel>                    
                 </StatusBarItem>
                 <Separator Grid.Column="3" />
                 <StatusBarItem Grid.Column="4">
